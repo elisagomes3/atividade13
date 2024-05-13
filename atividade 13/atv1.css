@@ -1,0 +1,11 @@
+.calcular{
+    border-radius: 20px;
+    background-color: rgb(104, 155, 231);
+    color: aliceblue;
+    border: 2px solid rgb(0, 71, 179);
+    width: 10%;
+    height: 40px;
+    font-size: large;
+    margin-top: 10px;
+}
+
